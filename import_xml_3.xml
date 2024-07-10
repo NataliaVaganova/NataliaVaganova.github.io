@@ -37,9 +37,9 @@
   <vendorCode>TS11.03-1001-30</vendorCode>
   <typePrefix>555</typePrefix>
   <model>Планшет KVADRA_T</model>
-  <name>Планшет KVADRA_T</name>
-  <description>Планшет KVADRA_T / 64 ГБ / Wi-Fi + LTE / 3000021012 / 6 ГБ / false / kvadraOS Indigo</description>
-  <barcode>25282629</barcode>
+  <name>ПЛАНШЕТ KVADRA_T</name>
+  <description>ПЛАНШЕТ KVADRA_T / 64 ГБ / Wi-Fi + LTE / 3000021012 / 6 ГБ / false / kvadraOS Indigo</description>
+  <barcode>25282629555</barcode>
   <weight>1.0</weight>
   <dimensions>29.6x19.2x4.6</dimensions>
 
@@ -52,7 +52,7 @@
   <param name="bundle_components_count">0</param>
 
   <param name="vendor">KVADRA</param>
-  <param name="vendorCode">TS11.03-1001-30</param>
+  <param name="vendorCode">TS11.03-1001-303</param>
   <param name="vendorCodeWithPrefix_4_AS">KVADRA_TS11.03-1001-30</param>
   <param name="ocs_product_key">"</param>
 
@@ -84,9 +84,9 @@
   <vendorCode>Y23T01PO2423R_786071</vendorCode>
   <typePrefix></typePrefix>
   <model>Ноутбук KVADRA_T</model>
-  <name>Ноутбук KVADRA_T</name>
-  <description>Ноутбук KVADRA_T / Серенити / 128 ГБ / Wi-Fi + LTE / 3000022081 / 6 ГБ / true / kvadraOS Indigo</description>
-  <barcode>999887744</barcode>
+  <name>НОУТБУК KVADRA_T</name>
+  <description>НОУТБУК KVADRA_T / Серенити / 128 ГБ / Wi-Fi + LTE / 3000022081 / 6 ГБ / true / kvadraOS Indigo</description>
+  <barcode>999887744555</barcode>
   <weight>1.05</weight>
   <dimensions>29.6x19.2x4.6</dimensions>
 
@@ -111,9 +111,9 @@
   <vendorCode>TS11.03-3011-31</vendorCode>
   <typePrefix></typePrefix>
   <model>Планшет KVADRA_T</model>
-  <name>Планшет KVADRA_T</name>
+  <name>ПЛАНШЕТ KVADRA_T</name>
   <description>Планшет KVADRA_T / Серенити / 256 ГБ / Wi-Fi + LTE / 3000021016 / 8 ГБ / false / kvadraOS Indigo</description>
-  <barcode>777888555666</barcode>
+  <barcode>777888555666555</barcode>
   <weight>1.0</weight>
   <dimensions>29.6x19.2x4.6</dimensions>
 
@@ -163,7 +163,7 @@
   <vendorCode>TS11.03-1001-20</vendorCode>
   <typePrefix></typePrefix>
   <model>Планшет KVADRA_T</model>
-  <name>Планшет KVADRA_T / Аргентум</name>
+  <name>ПЛАНШЕТ KVADRA_T / Аргентум</name>
   <description>Планшет KVADRA_T / Аргентум / 64 ГБ / Wi-Fi + LTE / 3000021013 / 6 ГБ / false / kvadraOS Indigo</description>
   <barcode>99998888555</barcode>
   <weight>1.0</weight>
@@ -215,9 +215,9 @@
   <vendorCode>Y23T01PO2421R_35EB57</vendorCode>
   <typePrefix></typePrefix>
   <model>Планшет KVADRA_T</model>
-  <name>Планшет KVADRA_T / Аргентум / 128 ГБ / Wi-Fi + LTE / 3000022080 / 6 ГБ / true / kvadraOS Indigo</name>
-  <description></description>
-  <barcode>3000022080</barcode>
+  <name>ПЛАНШЕТ KVADRA_T</name>
+  <description>ПЛАНШЕТ KVADRA_T / Аргентум / 128 ГБ / Wi-Fi + LTE / 3000022080 / 6 ГБ / true / kvadraOS Indigo</description>
+  <barcode>3000022080555</barcode>
   <weight>1.05</weight>
   <dimensions>29.6x19.2x4.6</dimensions>
 
@@ -267,9 +267,9 @@
   <vendorCode>TS11.03-3011-21</vendorCode>
   <typePrefix></typePrefix>
   <model>Планшет KVADRA_T</model>
-  <name>Планшет KVADRA_T / Аргентум / 256 ГБ / Wi-Fi + LTE / 3000021017 / 8 ГБ / false / kvadraOS Indigo</name>
-  <description></description>
-  <barcode>3000021017</barcode>
+  <name>ПЛАНШЕТ KVADRA_T</name>
+  <description>ПЛАНШЕТ KVADRA_T / Аргентум / 256 ГБ / Wi-Fi + LTE / 3000021017 / 8 ГБ / false / kvadraOS Indigo</description>
+  <barcode>3000021017555</barcode>
   <weight>1.0</weight>
   <dimensions>29.6x19.2x4.6</dimensions>
 
@@ -321,9 +321,9 @@
   <vendorCode>Y23T01ACC003A</vendorCode>
   <typePrefix></typePrefix>
   <model>Чехол с клавиатурой</model>
-  <name>Чехол с клавиатурой</name>
-  <description></description>
-  <barcode>3000026686</barcode>
+  <name>ЧЕХОЛ с клавиатурой</name>
+  <description>ЧЕХОЛ с клавиатурой ЧЕХОЛ с клавиатурой ЧЕХОЛ с клавиатурой</description>
+  <barcode>3000026686555</barcode>
   <weight>0.62</weight>
   <dimensions>190x27x305</dimensions>
 
@@ -375,9 +375,9 @@
   <vendorCode>Y23T01ACC001A</vendorCode>
   <typePrefix></typePrefix>
   <model>Базовый чехол</model>
-  <name>Базовый чехол / 3000022759</name>
-  <description></description>
-  <barcode>3000022759</barcode>
+  <name>БАЗОВЫЙ ЧЕХОЛ</name>
+  <description>БАЗОВЫЙ ЧЕХОЛ / 3000022759</description>
+  <barcode>3000022759555</barcode>
   <weight>0.18</weight>
   <dimensions>30x17x1.5</dimensions>
 
@@ -429,9 +429,9 @@
   <vendorCode>Y23T01ACC002A</vendorCode>
   <typePrefix></typePrefix>
   <model>Чехол-книжка</model>
-  <name>Чехол-книжка / Графит / 3000024246</name>
-  <description></description>
-  <barcode>3000024246</barcode>
+  <name>ЧЕХОЛ-КНИЖКА</name>
+  <description>ЧЕХОЛ-КНИЖКА / Графит / 3000024246</description>
+  <barcode>3000024246555</barcode>
   <weight>0.39</weight>
   <dimensions>30x18.5x2</dimensions>
 
