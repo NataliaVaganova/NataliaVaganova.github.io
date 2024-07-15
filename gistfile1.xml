@@ -1,5 +1,5 @@
 <items date="2024-05-29T01:01:01">
-<item externalProductId="300520241" externalId="300520241" sku="300520241" name="Платье Юля Наташа" _price="">
+<item externalProductId="300520241" externalId="300520241" sku="300520241" name="Платье Юля Наташа" price="200">
 <stocks>
 <stock externalWarehouseId="sklad300520241" quantity="10"/>
 </stocks>
