@@ -1,0 +1,12 @@
+<items date="2024-05-29T01:01:01">
+<item externalProductId="300520241" externalId="300520241" sku="300520241" name="Платье Юля Наташа" _price="">
+<stocks>
+<stock externalWarehouseId="sklad300520241" quantity="10"/>
+</stocks>
+</item>
+<item externalProductId="300520242" externalId="300520242" sku="300520242" name="Платье Юля БЕЗ связей" _price="">
+<stocks>
+<stock externalWarehouseId="sklad300520241" quantity="5"/>
+</stocks>
+</item>
+</items>
