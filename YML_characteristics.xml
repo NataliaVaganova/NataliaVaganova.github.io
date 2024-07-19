@@ -14,6 +14,8 @@
         </currencies>
         <categories>
             <category id="1">Бытовая техника</category>
+            <category id="10" parentId="1">Мелкая техника для кухни</category>
+            <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
         </categories>
         <delivery-options>
             <option cost="200" days="1"/>
@@ -37,15 +39,16 @@
                 </description>                
                 <country_of_origin>Китай</country_of_origin>
                 <barcode>4601546021298</barcode>
-                <param name="Цвет">белый</param>
-                <param name="Гарантия производителя">true</param>
-                <param name="Беспроводной режим">false</param>
-                <param name="Мощность, Вт">20</param>
+                <param name="Цвет">true</param>
+                <param name="Гарантия производителя">да</param>
+                <param name="Беспроводной режим">нет</param>
+                <param name="Мощность, Вт">двести</param>
                 <weight>3.6</weight>
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
                 </offer>
             <offer id="902222" type="vendor.model" bid="60">
+                <name>Сэндвичница Brand K220Y9</name>
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    

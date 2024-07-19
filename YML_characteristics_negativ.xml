@@ -13,7 +13,9 @@
             <currency id="USD" rate="60"/>
         </currencies>
         <categories>
-            <category id="888">Умная бытовая техника</category>
+            <category id="1">Бытовая техника</category>
+            <category id="10" parentId="1">Мелкая техника для кухни</category>
+            <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
         </categories>
         <delivery-options>
             <option cost="200" days="1"/>
@@ -30,7 +32,7 @@
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>8990</price>
                 <currencyId>RUR</currencyId>
-                <categoryId>888</categoryId>
+                <categoryId>1</categoryId>
                 <picture>http://best.seller.ru/img/model_12345.jpg</picture>
                 <description>
                     Это прибор, который придётся по вкусу всем любителям десертов и сладостей, ведь с его помощью вы сможете делать вкусное домашнее мороженое из натуральных ингредиентов.
@@ -46,6 +48,7 @@
                 <count>100</count>
                 </offer>
             <offer id="902222" type="vendor.model" bid="60">
+                <name>Сэндвичница Brand K220Y9</name>
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
@@ -53,7 +56,7 @@
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>1099</price>
                 <currencyId>RUR</currencyId>
-                <categoryId>888</categoryId>
+                <categoryId>1</categoryId>
                 <picture>http://best.seller.ru/img/device56789.jpg</picture>                
                 <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>
                 <country_of_origin>Россия</country_of_origin>
