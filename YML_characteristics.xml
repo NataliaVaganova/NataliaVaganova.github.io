@@ -14,8 +14,6 @@
         </currencies>
         <categories>
             <category id="1">Бытовая техника</category>
-            <category id="10" parentId="1">Мелкая техника для кухни</category>
-            <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
         </categories>
         <delivery-options>
             <option cost="200" days="1"/>
@@ -24,64 +22,46 @@
             <option cost="200" days="1"/>
         </pickup-options>
         <offers>
-            <offer id="9012" bid="80">
+            <offer id="901111" bid="80">
                 <name>Мороженица Brand 3811</name>
                 <vendor>Brand</vendor>
+                <model>3811</model>   
                 <vendorCode>A1234567B</vendorCode>
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>8990</price>
-                <oldprice>9990</oldprice>
-                <enable_auto_discounts>true</enable_auto_discounts>
                 <currencyId>RUR</currencyId>
-                <categoryId>101</categoryId>
-                <vat>VAT_20</vat>
+                <categoryId>1</categoryId>
                 <picture>http://best.seller.ru/img/model_12345.jpg</picture>
-                <delivery>true</delivery>
-                <pickup>true</pickup>
-                <delivery-options>
-                    <option cost="300" days="1" order-before="18"/>
-                </delivery-options>
-                <pickup-options>
-                    <option cost="300" days="1-3"/>                        
-                </pickup-options>
-                <store>true</store>
                 <description>
                     Это прибор, который придётся по вкусу всем любителям десертов и сладостей, ведь с его помощью вы сможете делать вкусное домашнее мороженое из натуральных ингредиентов.
                 </description>                
-                <sales_notes>Необходима предоплата.</sales_notes>
-                <manufacturer_warranty>true</manufacturer_warranty>
                 <country_of_origin>Китай</country_of_origin>
                 <barcode>4601546021298</barcode>
                 <param name="Цвет">белый</param>
+                <param name="Гарантия производителя">true</param>
+                <param name="Беспроводной режим">false</param>
+                <param name="Мощность, Вт">20</param>
                 <weight>3.6</weight>
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
                 </offer>
-            <offer id="12346" type="vendor.model" bid="60">
+            <offer id="902222" type="vendor.model" bid="60">
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
                 <vendorCode>A1234567B</vendorCode>
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>1099</price>
-                <oldprice>1399</oldprice>
-                <enable_auto_discounts>false</enable_auto_discounts>
                 <currencyId>RUR</currencyId>
-                <categoryId>101</categoryId>
-                <vat>VAT_20</vat>
+                <categoryId>1</categoryId>
                 <picture>http://best.seller.ru/img/device56789.jpg</picture>                
-                <delivery>false</delivery>
-                <pickup>true</pickup>
-                <pickup-options>
-                    <option cost="350" days="1" order-before="12"/>                        
-                </pickup-options>                
-                <param name="Мощность">750 Вт</param>
                 <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>
-                <sales_notes>Наличные, Visa/Mastercard, б/н расчет</sales_notes>
-                <store>false</store>
-                <manufacturer_warranty>true</manufacturer_warranty>
                 <country_of_origin>Россия</country_of_origin>
                 <barcode>9876543210</barcode>  
+                <param name="Цвет">черный</param>
+                <param name="Гарантия производителя">false</param>
+                <param name="Беспроводной режим">true</param>
+                <param name="Мощность, Вт">40</param>
                 <weight>1.03</weight>  
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>23</count>
