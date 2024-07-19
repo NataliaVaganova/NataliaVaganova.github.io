@@ -13,7 +13,7 @@
             <currency id="USD" rate="60"/>
         </currencies>
         <categories>
-            <category id="1150">Бытовая техника-2</category>
+            <category id="888">Умная бытовая техника</category>
         </categories>
         <delivery-options>
             <option cost="200" days="1"/>
@@ -30,7 +30,7 @@
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>8990</price>
                 <currencyId>RUR</currencyId>
-                <categoryId>1150</categoryId>
+                <categoryId>888</categoryId>
                 <picture>http://best.seller.ru/img/model_12345.jpg</picture>
                 <description>
                     Это прибор, который придётся по вкусу всем любителям десертов и сладостей, ведь с его помощью вы сможете делать вкусное домашнее мороженое из натуральных ингредиентов.
@@ -53,7 +53,7 @@
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
                 <price>1099</price>
                 <currencyId>RUR</currencyId>
-                <categoryId>1150</categoryId>
+                <categoryId>888</categoryId>
                 <picture>http://best.seller.ru/img/device56789.jpg</picture>                
                 <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>
                 <country_of_origin>Россия</country_of_origin>
