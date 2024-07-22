@@ -12,11 +12,8 @@
     </currencies>
     <categories>
     
-      <category id="29299395" >Планшеты KVADRA</category>
+      <category id="29299395328" >Компьютерная техника</category>
     
-      <category id="28742577" >Аксессуары KVADRA</category>
-    
-      <category id="29555602" >Ноутбуки KVADRA</category>
     
     </categories>
     
@@ -27,21 +24,22 @@
 
 
 
-<offer type="vendor.model" available="true" id="3000021012"> 
+<offer type="vendor.model" available="true" id="300998899"> 
   <url>https://kvadra.tech/product_by_id/401514266</url>
   <price>145000.0</price>
   <currencyId>RUB</currencyId>
-  <categoryId>29299395</categoryId>
+  <categoryId>29299395328</categoryId>
   
   <vendor>KVADRA</vendor>
   <vendorCode>TS11.03-1001-30</vendorCode>
   <typePrefix>555</typePrefix>
   <model>Планшет KVADRA_T</model>
-  <name>ПЛАНШЕТ KVADRA_T</name>
+  <name>Планшет</name>
   <description>ПЛАНШЕТ KVADRA_T / 64 ГБ / Wi-Fi + LTE / 3000021012 / 6 ГБ / false / kvadraOS Indigo</description>
   <barcode>25282629555</barcode>
   <dimensions>29.6x19.2x4.6</dimensions>
   <picture>https://static.insales-cdn.com/images/products/1/4217/323874937/33801978_CHW6LWW.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/4236/323874956/33801978_CHW6LWW_managment.jpg</picture>
 
 
   <param name="insales_update_time">2024-07-08T05:31:47</param>
@@ -76,17 +74,17 @@
 
 
 
-<offer type="vendor.model" available="false" id="3000022081"> 
+<offer type="vendor.model" available="false" id="300999888"> 
   <url>https://kvadra.tech/product_by_id/401514266</url>
   <price>41990.0</price>
   <currencyId>RUB</currencyId>
-  <categoryId>29555602</categoryId>
+  <categoryId>29299395328</categoryId>
   
   <vendor>KVADRA</vendor>
   <vendorCode>Y23T01PO2423R_786071</vendorCode>
   <typePrefix></typePrefix>
   <model>Ноутбук KVADRA_T</model>
-  <name>НОУТБУК KVADRA_T</name>
+  <name>Ноутбук</name>
   <description>НОУТБУК KVADRA_T / Серенити / 128 ГБ / Wi-Fi + LTE / 3000022081 / 6 ГБ / true / kvadraOS Indigo</description>
   <barcode>999887744555</barcode>
   <weight>1.05</weight>
@@ -103,22 +101,29 @@
 </offer>
 
 
-<offer type="vendor.model" available="false" id="3000026686"> 
+<offer type="vendor.model" available="false" id="300888999"> 
   <url>https://kvadra.tech/product_by_id/403211146</url>
   <price>9490.0</price>
   <currencyId>RUB</currencyId>
-  <categoryId>28742577</categoryId>
+  <categoryId>29299395328</categoryId>
   
   <vendor>KVADRA</vendor>
   <vendorCode>Y23T01ACC003A</vendorCode>
   <typePrefix></typePrefix>
   <model>Чехол с клавиатурой</model>
-  <name>ЧЕХОЛ с клавиатурой</name>
+  <name>Чехол</name>
   <description>ЧЕХОЛ с клавиатурой ЧЕХОЛ с клавиатурой ЧЕХОЛ с клавиатурой</description>
   <barcode>3000026686555</barcode>
   <weight>0.62</weight>
   <dimensions>190x27x305</dimensions>
   <picture>https://static.insales-cdn.com/images/products/1/3980/323874700/33801984_CHW6BR4WTX_managment.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/4241/323874961/33801978_CHW6LWW_bigburner.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/4242/323874962/Схема_встраивания_для_газ_варок_с_боковым_управлением.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/7330/350649506/NEW_1_33801978_17_02_f_chw6lww-L.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/7390/350649566/NEW_1_33801978_17_04_l_chw6lww-77499-L.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/7408/350649584/NEW_1_33801978_17_03_l_chw6lww-L.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/4152/323874872/33801977_CHW6LBB.jpg</picture>
+  <picture>https://static.insales-cdn.com/images/products/1/4155/323874875/33801977_CHW6LBB_managment.jpg</picture>
 
 
 
