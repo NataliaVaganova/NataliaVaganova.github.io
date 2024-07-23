@@ -24,7 +24,7 @@
             <option cost="200" days="1"/>
         </pickup-options>
         <offers>
-            <offer id="9987456" bid="80">
+            <offer id="9987457" bid="80">
                 <name>Мороженица Brand 3811</name>
                 <vendor>Brand</vendor>
                 <vendorCode>A1234567B</vendorCode>
@@ -57,7 +57,7 @@
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
                 </offer>
-            <offer id="987452" type="vendor.model" bid="60">
+            <offer id="987457" type="vendor.model" bid="60">
                 <name>Мороженица Brand 3811</name>
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
