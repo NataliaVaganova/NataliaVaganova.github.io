@@ -25,7 +25,7 @@
         </pickup-options>
         <offers>
             <offer id="9987457" bid="80">
-                <name>Мороженица Brand 3811</name>
+                <name>Мороженица</name>
                 <vendor>Brand</vendor>
                 <vendorCode>A1234567B</vendorCode>
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
@@ -58,7 +58,7 @@
                 <count>100</count>
                 </offer>
             <offer id="987457" type="vendor.model" bid="60">
-                <name>Мороженица Brand 3811</name>
+                <name>Сэндвичница</name>
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
