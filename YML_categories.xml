@@ -58,6 +58,7 @@
                 <count>100</count>
                 </offer>
             <offer id="987452" type="vendor.model" bid="60">
+                <name>Мороженица Brand 3811</name>
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
