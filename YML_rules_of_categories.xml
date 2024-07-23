@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-11-22T14:37:38+03:00">
+    <shop>
+        <name>BestSeller</name>
+        <company>Tne Best inc.</company>
+        <url>http://best.seller.ru</url>
+        <platform>uCoz</platform>
+        <version>1.0</version>
+        <agency>Технологичные решения</agency>
+        <email>example-email@gmail.com</email>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+            <currency id="USD" rate="60"/>
+        </currencies>
+        <categories>
+            <category id="11050">Гигиена</category>
+        </categories>
+        <delivery-options>
+            <option cost="200" days="1"/>
+        </delivery-options>
+        <pickup-options>
+            <option cost="200" days="1"/>
+        </pickup-options>
+        <offers>
+            <offer id="628" bid="628">
+                <name>Зубная щетка</name>
+                <vendor>SPLAT</vendor>
+                <model>2122</model>
+                <vendorCode>P148258</vendorCode>
+                <price>8750</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>11050</categoryId>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <delivery-options>
+                    <option cost="300" days="1" order-before="18"/>
+                </delivery-options>
+                <pickup-options>
+                    <option cost="300" days="1-3"/>                        
+                </pickup-options>
+                <store>true</store>
+                <description>Зубная щетка SPLAT</description>                
+                <sales_notes>Необходима предоплата.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>4601578</barcode>
+                <param name="Цвет">белый</param>
+                <weight>0.1</weight>
+                <dimensions>20.1/20.551/22.5</dimensions>
+                <count>100</count>
+            </offer>
+            <offer id="629" bid="629">
+                <name>Электрическая Зубная щетка</name>
+                <vendor>SPLAT</vendor>
+                <model>T-148</model>
+                <vendorCode>P148259</vendorCode>
+                <price>3750</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>11050</categoryId>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <delivery-options>
+                    <option cost="300" days="1" order-before="18"/>
+                </delivery-options>
+                <pickup-options>
+                    <option cost="300" days="1-3"/>                        
+                </pickup-options>
+                <store>true</store>
+                <description>Электрическая Зубная щетка SPLAT</description>                
+                <sales_notes>Необходима предоплата.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>46015799</barcode>
+                <param name="Цвет">Зеленый</param>
+                <weight>0.2</weight>
+                <dimensions>20.1/20.551/22.5</dimensions>
+                <count>100</count>
+                </offer>
+            <offer id="630" bid="630">
+                <name>Ирригатор</name>
+                <vendor>B Well</vendor>
+                <model>ZX-666896</model>
+                <vendorCode>P148260</vendorCode>
+                <price>6850</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>11050</categoryId>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <delivery-options>
+                    <option cost="300" days="1" order-before="18"/>
+                </delivery-options>
+                <pickup-options>
+                    <option cost="300" days="1-3"/>                        
+                </pickup-options>
+                <store>true</store>
+                <description>Ирригатор B Well</description>                
+                <sales_notes>Необходима предоплата.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>46015799</barcode>
+                <param name="Цвет">Зеленый</param>
+                <weight>0.2</weight>
+                <dimensions>20.1/20.551/22.5</dimensions>
+                <count>100</count>
+            </offer>
+            <offer id="631" bid="631">
+                <name>ИЗубная паста</name>
+                <vendor>SPLAT</vendor>
+                <model>ZOPU214</model>
+                <vendorCode>P148261</vendorCode>
+                <price>250</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>11050</categoryId>
+                <delivery>true</delivery>
+                <pickup>true</pickup>
+                <delivery-options>
+                    <option cost="300" days="1" order-before="18"/>
+                </delivery-options>
+                <pickup-options>
+                    <option cost="300" days="1-3"/>                        
+                </pickup-options>
+                <store>true</store>
+                <description>Зубная паста SPLAT</description>                
+                <sales_notes>Необходима предоплата.</sales_notes>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>46015799</barcode>
+                <param name="Цвет">Зеленый</param>
+                <weight>0.2</weight>
+                <dimensions>20.1/20.551/22.5</dimensions>
+                <count>100</count>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
