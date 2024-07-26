@@ -55,8 +55,9 @@
                 <barcode>4601546021298</barcode>
                 <param name="Цвет">белый</param>
                 <param name="Гарантия производителя">true</param>
-                <param name="Беспроводной режим">false</param>
+                <param name="Беспроводной режим">null</param>
                 <param name="Мощность, Вт">null</param>
+                <param name="Справочник">125</param>
                 <weight>3.6</weight>
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
