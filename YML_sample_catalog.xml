@@ -53,7 +53,7 @@
                 <manufacturer_warranty>true</manufacturer_warranty>
                 <country_of_origin>Китай</country_of_origin>
                 <barcode>4601546021298</barcode>
-                <param name="Цвет">белый</param>
+                <param name="Цвет">null</param>
                 <param name="Гарантия производителя">true</param>
                 <param name="Беспроводной режим">null</param>
                 <param name="Мощность, Вт">null</param>
