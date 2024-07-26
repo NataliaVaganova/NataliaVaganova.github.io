@@ -24,8 +24,8 @@
             <option cost="200" days="1"/>
         </pickup-options>
         <offers>
-            <offer id="9012" bid="80">
-                <name>Мороженица Brand 3811</name>
+            <offer id="9012889" bid="80">
+                <name>Товар 1</name>
                 <vendor>Brand</vendor>
                 <vendorCode>A1234567B</vendorCode>
                 <url>http://best.seller.ru/product_page.asp?pid=12345</url>
@@ -56,12 +56,14 @@
                 <param name="Цвет">белый</param>
                 <param name="Гарантия производителя">true</param>
                 <param name="Беспроводной режим">false</param>
+                <param name="Мощность, Вт">20</param>
                 <weight>3.6</weight>
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
                 </offer>
-            <offer id="12346" type="vendor.model" bid="60">
-                <typePrefix>Сэндвичница</typePrefix>                            
+            <offer id="12346889" type="vendor.model" bid="60">
+                <typePrefix>Товар 2</typePrefix>    
+                <name>Товар 2</name>                        
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
                 <vendorCode>A1234567B</vendorCode>
@@ -70,7 +72,6 @@
                 <oldprice>1399</oldprice>
                 <enable_auto_discounts>false</enable_auto_discounts>
                 <currencyId>RUR</currencyId>
-                <categoryId>101</categoryId>
                 <vat>VAT_20</vat>
                 <picture>http://best.seller.ru/img/device56789.jpg</picture>                
                 <delivery>false</delivery>
