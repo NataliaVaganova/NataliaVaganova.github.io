@@ -43,6 +43,10 @@
                 <param name="Гарантия производителя">да</param>
                 <param name="Беспроводной режим">нет</param>
                 <param name="Мощность, Вт">20</param>
+                <param unit="мм" name="Длина в упаковке">200.0</param>
+                <param unit="мм" name="Ширина в упаковке">300.0</param>
+                <param unit="мм" name="Высота в упаковке">50.0</param>
+                <param unit="кг" name="Вес">1.0</param>
                 <weight>3.6</weight>
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
@@ -65,6 +69,10 @@
                 <param name="Гарантия производителя">false</param>
                 <param name="Беспроводной режим">true</param>
                 <param name="Мощность, Вт">40</param>
+                <param unit="мм" name="Длина в упаковке">100.0</param>
+                <param unit="мм" name="Ширина в упаковке">200.0</param>
+                <param unit="мм" name="Высота в упаковке">40.0</param>
+                <param unit="кг" name="Вес">2.0</param>
                 <weight>1.03</weight>  
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>23</count>
