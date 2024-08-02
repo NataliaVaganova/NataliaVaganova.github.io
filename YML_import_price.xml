@@ -54,7 +54,7 @@
                 </offer>
              <offer id="902305" type="vendor.model" bid="60">
                 <name>Наволочка</name>
-                <price></price>
+                <price>10</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>130</categoryId>
                 <weight>1.03</weight>  
@@ -63,7 +63,7 @@
                 </offer>
             <offer id="902306" type="vendor.model" bid="60">
                 <name>Простынь</name>
-                <price></price>
+                <price>10</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>130</categoryId>
                 <weight>1.03</weight>  
@@ -72,7 +72,7 @@
                 </offer>
             <offer id="902307" type="vendor.model" bid="60">
                 <name>Пододеяльник</name>
-                <price></price>
+                <price>10</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>130</categoryId>
                 <weight>1.03</weight>  
