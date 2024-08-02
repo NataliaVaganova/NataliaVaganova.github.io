@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-11-22T14:37:38+03:00">
+    <shop>
+        <name>Softly World</name>
+        <company>Tne Best inc.</company>
+        <url>http://best.seller.ru</url>
+        <platform>uCoz</platform>
+        <version>1.0</version>
+        <agency>Уютные решения</agency>
+        <email>example-email@gmail.com</email>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="128">Текстиль</category>
+        </categories>
+        <offers>
+            <offer id="901200" bid="80">
+                <name>Плед</name>
+                <price>3500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>128</categoryId>               
+                <weight>3.6</weight>
+                <dimensions>20.1/20.551/22.5</dimensions>
+                <count>5</count>
+                </offer>
+            <offer id="902201" type="vendor.model" bid="60">
+                <name>Одеяло</name>
+                <price>8000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>128</categoryId>
+                <weight>1.03</weight>  
+                <dimensions>20.800/23.500/9.000</dimensions>
+                <count>15</count>
+                </offer>
+            <offer id="902202" type="vendor.model" bid="60">
+                <name>Подушка</name>
+                <price>14000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>128</categoryId>
+                <weight>1.03</weight>  
+                <dimensions>20.800/23.500/9.000</dimensions>
+                <count>20</count>
+                </offer>
+            <offer id="902203" type="vendor.model" bid="60">
+                <name>Подушка</name>
+                <price>20000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>128</categoryId>
+                <weight>1.03</weight>  
+                <dimensions>20.800/23.500/9.000</dimensions>
+                <count>30</count>
+                </offer>
+        </offers>
+    </shop>
+</yml_catalog>
