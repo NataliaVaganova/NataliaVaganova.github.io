@@ -13,10 +13,10 @@
         </currencies>
         <categories>
             <category id="128">Текстиль</category>
-            <category id="129">Постельное бельё</category>
+            <category id="130">Постельное бельё</category>
         </categories>
         <offers>
-            <offer id="901200" bid="80">
+            <offer id="901300" bid="80">
                 <name>Плед</name>
                 <price>3500</price>
                 <currencyId>RUR</currencyId>
@@ -25,7 +25,7 @@
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>5</count>
                 </offer>
-            <offer id="902201" type="vendor.model" bid="60">
+            <offer id="902301" type="vendor.model" bid="60">
                 <name>Одеяло</name>
                 <price>8000</price>
                 <currencyId>RUR</currencyId>
@@ -34,7 +34,7 @@
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>15</count>
                 </offer>
-            <offer id="902202" type="vendor.model" bid="60">
+            <offer id="902302" type="vendor.model" bid="60">
                 <name>Подушка</name>
                 <price>14000</price>
                 <currencyId>RUR</currencyId>
@@ -43,8 +43,8 @@
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>20</count>
                 </offer>
-            <offer id="902204" type="vendor.model" bid="60">
-                <name>Подушка</name>
+            <offer id="902304" type="vendor.model" bid="60">
+                <name>Матрас</name>
                 <price>20000</price>
                 <currencyId>RUR</currencyId>
                 <categoryId>128</categoryId>
@@ -52,29 +52,29 @@
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>30</count>
                 </offer>
-             <offer id="902205" type="vendor.model" bid="60">
+             <offer id="902305" type="vendor.model" bid="60">
                 <name>Наволочка</name>
                 <price></price>
                 <currencyId>RUR</currencyId>
-                <categoryId>129</categoryId>
+                <categoryId>130</categoryId>
                 <weight>1.03</weight>  
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>30</count>
                 </offer>
-            <offer id="902206" type="vendor.model" bid="60">
+            <offer id="902306" type="vendor.model" bid="60">
                 <name>Простынь</name>
                 <price></price>
                 <currencyId>RUR</currencyId>
-                <categoryId>129</categoryId>
+                <categoryId>130</categoryId>
                 <weight>1.03</weight>  
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>30</count>
                 </offer>
-            <offer id="902207" type="vendor.model" bid="60">
+            <offer id="902307" type="vendor.model" bid="60">
                 <name>Пододеяльник</name>
                 <price></price>
                 <currencyId>RUR</currencyId>
-                <categoryId>129</categoryId>
+                <categoryId>130</categoryId>
                 <weight>1.03</weight>  
                 <dimensions>20.800/23.500/9.000</dimensions>
                 <count>30</count>
