@@ -24,8 +24,8 @@
             <option cost="200" days="1"/>
         </pickup-options>
         <offers>
-            <offer id="901188" bid="80">
-                <name>Мороженица Brand 3811</name>
+            <offer id="901189" bid="80">
+                <name>Мороженица Brand</name>
                 <vendor>Brand</vendor>
                 <model>3811</model>   
                 <vendorCode>A1234567B</vendorCode>
@@ -40,7 +40,7 @@
                 <country_of_origin>Китай</country_of_origin>
                 <barcode>4601546021298</barcode>
                 <param name="Цвет">true</param>
-                <param name="Гарантия производителя">да</param>
+                <param name="Гарантия производителя">2 года</param>
                 <param name="Беспроводной режим">нет</param>
                 <param name="Мощность, Вт">20</param>
                 <param unit="мм" name="Длина в упаковке">200.0</param>
@@ -51,8 +51,8 @@
                 <dimensions>20.1/20.551/22.5</dimensions>
                 <count>100</count>
                 </offer>
-            <offer id="902288" type="vendor.model" bid="60">
-                <name>Сэндвичница Brand K220Y9</name>
+            <offer id="902289" type="vendor.model" bid="60">
+                <name>Сэндвичница Brand</name>
                 <typePrefix>Сэндвичница</typePrefix>                            
                 <vendor>Brand</vendor>
                 <model>K220Y9</model>    
@@ -66,7 +66,7 @@
                 <country_of_origin>Россия</country_of_origin>
                 <barcode>9876543210</barcode>  
                 <param name="Цвет">черный</param>
-                <param name="Гарантия производителя">false</param>
+                <param name="Гарантия производителя">1 год</param>
                 <param name="Беспроводной режим">true</param>
                 <param name="Мощность, Вт">40</param>
                 <param unit="мм" name="Длина в упаковке">100.0</param>
