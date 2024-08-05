@@ -1,0 +1,8 @@
+<items date="2024-08-05T01:01:01">
+<item externalProductId="955" externalId="955" sku="" name="Супница 1" price="2000">
+<stocks>
+<stock externalWarehouseId="888" quantity="10"/>
+<stock externalWarehouseId="999" quantity="5"/>
+</stocks>
+</item>
+</items>
