@@ -144,6 +144,8 @@
   <param unit="мм" name="Ширина в упаковке">1900</param>
   <param unit="мм" name="Высота в упаковке">3050</param>
 
+</offer>
+
 <offer type="vendor.model" available="false" id="300002999999"> 
   <url>https://kvadra.tech/product_by_id/403211146</url>
   <price>94.0</price>
