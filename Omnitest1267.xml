@@ -1,0 +1,22 @@
+<items date="2024-08-13T17:00:00">
+<item externalProductId="Product01test1267" externalId="Product01test1267" name="Товар 1 Тест-1267" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-1267" quantity="20"/>
+</stocks>
+</item>
+<item externalProductId="Product02test1267" externalId="Product02test1267" name="Товар 2 Тест-1267" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-1267" quantity="20"/>
+</stocks>
+</item>
+<item externalProductId="Product03test1267" externalId="Product03test1267" name="Товар 3 Тест-1267" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-1267" quantity="20"/>
+</stocks>
+</item>
+<item externalProductId="Product04test1267" externalId="Product04test1267" name="Товар 4 Тест-1267" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-1267" quantity="20"/>
+</stocks>
+</item>
+</items>

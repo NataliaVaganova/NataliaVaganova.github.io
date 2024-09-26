@@ -1,0 +1,7 @@
+<items date="2024-08-26T15:00:00">
+<item externalProductId="Product01test1516" externalId="Product01test1516" name="Товар Тест-1516" price="5500">
+<stocks>
+<stock externalWarehouseId="postsklad-1516" quantity="20"/>
+</stocks>
+</item>
+</items>
