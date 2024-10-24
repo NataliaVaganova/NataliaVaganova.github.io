@@ -48,4 +48,5 @@
 <stocks>
 <stock externalWarehouseId="postsklad-POST" quantity="100"/>
 </stocks>
+</item>
 </items>
