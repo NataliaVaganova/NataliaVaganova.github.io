@@ -1,0 +1,51 @@
+<items date="2024-10-24T14:30:00">
+<item externalProductId="9403395303" externalId="9403395303" name="Номенклатура для Handmade Wooden Soap Sleek Movies" price="4999">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="8694708195" externalId="8694708195" name="Номенклатура для Умные часы HUAWEI WATCH D2" price="30231">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="8977392710" externalId="8977392710" name="Номенклатура для Умные часы WearFit X5 Pro" price="1915">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="3623732097" externalId="3623732097" name="Номенклатура для Умный браслет Xiaomi Smart Band 8" price="3890">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="2847253257" externalId="2847253257" name="Номенклатура для Смарт часы Premium Smart Watch" price="1439">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="2530899253" externalId="2530899253" name="Номенклатура для Смарт-часы Redmi Watch 4" price="8735">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="1315030510" externalId="1315030510" name="Номенклатура для Фитнес-браслет Xiaomi Smart Band 9" price="3298">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="6273179924" externalId="6273179924" name="Номенклатура для Смарт-часы Samsung Galaxy Fit 3" price="4386">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="9183551302" externalId="9183551302" name="Номенклатура для Фитнес браслеты Xiaomi Фитнес-браслет Xiaomi Smart Band 8" price="3956">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</item>
+<item externalProductId="5370427005" externalId="5370427005" name="Номенклатура для Умные часы Nothing CMF Watch Pro 2" price="6143">
+<stocks>
+<stock externalWarehouseId="postsklad-POST" quantity="100"/>
+</stocks>
+</items>
