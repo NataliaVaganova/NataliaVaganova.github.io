@@ -1,0 +1,12 @@
+<items date="2024-08-13T17:00:00">
+<item externalProductId="Product01test0001" externalId="Product01test0001" name="Номенклатура для Умные часы" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-kvadra" quantity="1500"/>
+</stocks>
+</item>
+<item externalProductId="Product01test0002" externalId="Product01test0002" name="Номенклатура для Умный браслет" price="1000">
+<stocks>
+<stock externalWarehouseId="postsklad-kvadra" quantity="1500"/>
+</stocks>
+</item>
+</items>
